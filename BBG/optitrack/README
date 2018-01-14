@@ -1,0 +1,18 @@
+=== Files ===
+
+NOTE: You won't need to edit anything in this folder.
+
+= optitrack.hpp
+    - declaration of interface for communicating with the optitrack server
+    
+= optitrack.cpp
+    - implementation of the interface for receiving data from the optitrack server
+    
+= optitrack_channels.h
+    - definition of all output channels for optitrack_driver
+    
+= optitrack_driver.cpp
+    - implementation of optitrack_driver that receives optitrack information and publishes it as
+
+    - you don't need to edit this file, but will need to use optitrack_driver, so understanding the
+      basics of how it works is useful
