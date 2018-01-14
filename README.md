@@ -1,5 +1,6 @@
 # Simultaneous Localization and Mapping - Differential Drive Robot
 The repository consists of 2 components, one is a code base for the BeagleBone Green and the other is a code base for the Raspberry Pi 3
+
 NOTE: The code for the GUI, drivers and hardware communications was already setup and given to us in a template code by our Lab instructor( Dr. Peter Gaskell ). Our reponsibility as a team was only to modify the template in order to achieve predetermined functionalities such as SLAM, robot locomotion and autonomous exploration.
 
 ## Raspberry Pi 3 (RPi3)
